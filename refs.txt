@@ -1,2 +1,4 @@
-Chairugi et al 2018, Diode laser based gas analyser for simultaneous measurements of CO2 and HF from volcanoes
 
+Chairugi et al 2018, Diode laser based gas analyser for simultaneous measurements of CO2 and HF from volcanoes
+Burton et al 2013, Deep Carbon emissions from Volcanoes
+Aiuppa 2015, Volcanic Gas Monitoring
