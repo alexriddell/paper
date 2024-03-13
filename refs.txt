@@ -3,3 +3,5 @@ Chairugi et al 2018, Diode laser based gas analyser for simultaneous measurement
 Burton et al 2013, Deep Carbon emissions from Volcanoes
 Aiuppa 2015, Volcanic Gas Monitoring
 Riddell 2024, help
+Riddell 2024, V2 Help
+
